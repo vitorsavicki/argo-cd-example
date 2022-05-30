@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: argo-cd-example
+  annotations:
+    github.com/project-slug: vitorsavicki/argo-cd-example
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
