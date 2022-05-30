@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: vitorsavicki/argo-cd-example
-  newTag: 204accb508cb8977eebb23c1baa649efe0a2e5a2
+  newTag: 9c960ace4a096cb9ae2d306631b9d6eb0ba3629b
